@@ -2421,6 +2421,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		BigNoodleTitling28
+		{
+			"1"
+			{
+				"name"		"BigNoodleTitling"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
 		BigNoodleTitling36
 		{
 			"1"
@@ -2436,6 +2445,141 @@ Scheme
 			{
 				"name"		"BigNoodleTitling"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		BigNoodleTitling64
+		{
+			"1"
+			{
+				"name"		"BigNoodleTitling"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		BigNoodleTitling72
+		{
+			"1"
+			{
+				"name"		"BigNoodleTitling"
+				"tall"		"72"
+				"antialias" "1"
+			}
+		}
+		LightNumbers12
+		{
+			"1"
+			{
+				"name"		"LightNumbers"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		LightNumbers14
+		{
+			"1"
+			{
+				"name"		"LightNumbers"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		LightNumbers20
+		{
+			"1"
+			{
+				"name"		"LightNumbers"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		LightNumbers24
+		{
+			"1"
+			{
+				"name"		"LightNumbers"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		LightNumbers36
+		{
+			"1"
+			{
+				"name"		"LightNumbers"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers4
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"4"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers6
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"6"
+				"antialias" "1"
+			}
+		}	
+		MediumNumbers8
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}			
+		MediumNumbers12
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers14
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers20
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers24
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		MediumNumbers36
+		{
+			"1"
+			{
+				"name"		"MediumNumbers"
+				"tall"		"36"
 				"antialias" "1"
 			}
 		}
@@ -4349,6 +4493,16 @@ Scheme
 		{
 			"font" "resource/fonts/big_noodle_titling.ttf"
 			"name" "BigNoodleTitling"
+		}
+		"8"
+		{
+			"font" "resource/fonts/LightNumbers.ttf"
+			"name" LightNumbers"
+		}
+		"9"
+		{
+			"font" "resource/fonts/MediumNumbers.ttf"
+			"name" "MediumNumbers"
 		}
 	}
 }

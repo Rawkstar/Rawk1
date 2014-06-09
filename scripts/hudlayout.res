@@ -16,14 +16,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"r95"	[$WIN32]
-		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"r55"	[$WIN32]
-		"ypos_minmode"	"r36"	[$WIN32]
-		"xpos"	"r131"	[$X360]
-		"ypos"	"r77"	[$X360]
-		"wide"	"94"
-		"tall"	"45"
+		"xpos"	"c70"
+		"ypos"	"c66"
+		"wide"	"300"
+		"tall"	"300"
 	}
 	
 	HudObjectiveStatus
@@ -495,7 +491,7 @@
 		"IconScale"	  "0.35"
 		"LineHeight"	  "16"
 		"LineSpacing"	  "4"
-		"CornerRadius"	  "3"
+		"CornerRadius"	  "5"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"Default"
@@ -828,10 +824,9 @@
 		"tall"					"200"
 		"visible"				"1"
 		"enabled"				"1"
-		"separator_width"		"9"	// distance between the icons (including their backgrounds)
-		"separator_height"		"7"
-		"height_offset"			"0"	[$WIN32] // distance from the bottom of the panel
-		"height_offset"			"26"	[$X360]
+		"separator_width"		"5"	// distance between the icons (including their backgrounds)
+		"separator_height"		"4"
+		"height_offset"			"10"	// distance from the bottom of the panel
 	}
 
 	HudCapturePanel

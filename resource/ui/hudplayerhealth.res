@@ -5,9 +5,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"HudPlayerHealth"
-		"xpos"			"c-298"		
-		"ypos"			"c45"	
-		"xpos"			"32"
+		"xpos"			"c-300"		
+		"ypos"			"c45"
 		"zpos"			"2"
 		"wide"			"500"
 		"tall"			"200"
@@ -265,3 +264,5 @@
 		"fgcolor"		"TanDark"
 	}	
 }
+
+//thanks to FlatHUD for this file!
