@@ -488,10 +488,10 @@
 		"tall"	 "468"
 
 		"MaxDeathNotices" "4"
-		"IconScale"	  "0.35"
+		"IconScale"	  "1"
 		"LineHeight"	  "16"
 		"LineSpacing"	  "4"
-		"CornerRadius"	  "5"
+		"CornerRadius"	  "8"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
 		"TextFont"		"Default"
@@ -501,8 +501,8 @@
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"46 43 42 220"		[$WIN32]
-		"LocalBackgroundColor"	"245 229 196 200"	[$WIN32]
+		"BaseBackgroundColor"	"46 43 42 255"		[$WIN32]
+		"LocalBackgroundColor"	"245 229 196 255"	[$WIN32]
 		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
 		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
 	}

@@ -26,9 +26,11 @@ Scheme
 		"TFOrange"			"145 73 59 255"
 		
 		"White"				"235 235 235 255"
-		"Red"				"192 28 0 140"
+		"Red"				"225 0 122 255"
+		"Red2"				"201 0 0 255"
 		"RedSolid"			"192 28 0 255"
-		"Blue"				"0 28 162 140"
+		"Blue"				"0 157 224 255"
+		"Blue2"				"0 38 236 255"
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
 		//"Black"				"0 0 0 255"
@@ -39,6 +41,7 @@ Scheme
 		"TransparentBlack"	"0 0 0 196"
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
+		"DarkGray"          "0 0 0 188"
 		
 		"HUDBlueTeam"		"104 124 155 127"
 		"HUDRedTeam"		"180 92 77 127"
@@ -2583,8 +2586,134 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		BoldNumbers12
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers14
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers18
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"18"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers20
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers24
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers28
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		BoldNumbers36
+		{
+			"1"
+			{
+				"name"		"BoldNumbers"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		NoveMedium8
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium10
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"10"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium12
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium20
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium24
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium28
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"28"
+				"antialias"	"1"
+			}
+		}
+		NoveMedium36
+		{
+			"1"
+			{
+				"name"		"NovecentoMedium"
+				"tall"		"36"
+				"antialias"	"1"
+			}
+		}
 	}
-	
+
 	//
 	//////////////////// BORDERS //////////////////////////////
 	//
@@ -4504,5 +4633,55 @@ Scheme
 			"font" "resource/fonts/MediumNumbers.ttf"
 			"name" "MediumNumbers"
 		}
+		"10"
+		{
+			"font" "resource/fonts/BoldNumbers.ttf"
+			"name" "BoldNumbers"
+		}
+		"11" 
+		{
+			"font" "resource/fonts/HeavyCaps.ttf"
+			"name" "HeavyCaps"  
+		}
+		"12"
+		{
+			"font"	"resource/fonts/Solomon Normal.otf"
+			"name" "Solomon-Normal"
+		}
+		"13"
+		{
+			"font"	"resource/fonts/Solomon Heavy.ttf"
+			"name"	"Solomon Heavy"
+		}
+        "14" 
+		{
+			"font" "resource/fonts/Novecentowide-Book.otf"
+			"name" "Novecentowide-Book"  
+		}
+        "15" 
+		{
+			"font" "resource/fonts/NovecentoMedium.ttf"
+			"name" "NovecentoMedium"  
+		}
+		"16" 
+		{
+            "font" "resource/fonts/AvenirLTStd-Book.otf"
+			"name" "AvenirLTStd-Book"
+		}		
+		"17" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Medium.otf"
+			"name" "AvenirLTStd-Medium"
+		}
+		"18" 
+		{
+            "font" "resource/fonts/AvenirLTStd-Heavy.otf"
+			"name" "AvenirLTStd-Heavy"
+		}
+		"19" 
+		{
+			"font" "resource/fonts/AvenirLTStd-Black.ttf"
+			"name" "AvenirLTStd-Black"
+		}		
 	}
 }
